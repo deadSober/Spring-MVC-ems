@@ -1,10 +1,13 @@
 # Spring-MVC-ems
-Spring MVC project using CRUD
 
-EXPENSE MANAGEMENT SYSTEM
+### EXPENSE MANAGEMENT SYSTEM
+
+Spring MVC project applying CRUD operations
 
 Consists of 3 different roles - Admin, Employee, Account Manager.
 
-WORK UNDER PROGRESS
+Deployed and tested on Apache Tomcat server.
 
-Few controllers to be added and integrating the project with Angular.
+#### WORK IN PROGRESS
+
+Few controllers to be added and integrate the project with Angular.
